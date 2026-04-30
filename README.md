@@ -9,7 +9,7 @@ This is a simple command-line interface (CLI) application for managing tasks. Yo
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/GordonChao-Yu/Task-Tracker-CLI.git
+   git clone https://github.com/GordonChao-Yu/Task-Tracker-CLI
    cd Task-Tracker-CLI
    ```
 2. Compile the source code:
